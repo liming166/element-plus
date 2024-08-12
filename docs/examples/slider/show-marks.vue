@@ -22,7 +22,7 @@ const marks = reactive<Marks>({
   37: '37°C',
   50: {
     style: {
-      color: '#1989FA',
+      color: '#00FF00',
     },
     label: '50%',
   },
